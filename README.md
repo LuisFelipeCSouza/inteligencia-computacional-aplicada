@@ -3,9 +3,12 @@
 Repositório destinado aos códigos, análises e relatório dos trabalhos compucationais de Inteligência Computacional Aplicada (TPH7077) do Programa de Pós-Graduação em Engenharia Elétrica (PPGEE) da Universidade Federal do Ceará (UFC).
 
 **Autor**: Luis Felipe Carneiro de Souza (Matrícula: 593034)
+
 **Grupo** de Pesquisa: Grupo de Redes Elétricas Inteligentes (GREI)
+
 **Professor**: Prof. Dr. Guilherme Barreto
-Lo**cal: Fortaleza, Ceará
+
+**Local**: Fortaleza, Ceará
 
 ## Como Executar
 
